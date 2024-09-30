@@ -1,0 +1,10 @@
+.video-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    border: 4px solid #000;
+    border-radius: 10px;
+}
